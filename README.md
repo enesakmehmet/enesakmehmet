@@ -1,7 +1,7 @@
 ## 👋 About Me
 
 - 🌱 I’m currently learning **HTML, CSS, and JavaScript**
-- 🎯 Goals: Become a Frontend Developer
+- 🎯 Goals: Become a Fullstack Developer
 - 🌍 I love creating interactive websites and learning new technologies!
 
 ---
