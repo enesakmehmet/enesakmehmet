@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning **HTML,CSS,JavaScript,React,TypeScript,and SQL**
 - 🎯 Goals: Become a Fullstack Developer
 - 🌍 I love creating interactive websites and learning new technologies!
+- How to reach me enesakmehmet7@gmail.com
 
 ---
 
