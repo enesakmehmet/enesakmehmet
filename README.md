@@ -1,9 +1,24 @@
-## 👋 About Me
+👋 About Me
+🌟 Hi, I'm Enes Akmehmet!
+🚀 A passionate Full Stack Developer with 1 year of hands-on experience in building dynamic and responsive web applications.
 
-- 🌱 I’m currently learning **HTML,CSS,JavaScript,React,TypeScript,and SQL**
-- 🎯 Goals: Become a Fullstack Developer
-- 🌍 I love creating interactive websites and learning new technologies!
-- How to reach me enesakmehmet7@gmail.com
+💻 Tech Stack:
+Frontend: HTML, CSS, JavaScript, TypeScript, React
+Backend: Node.js, Express
+Database: SQL, MongoDB
+Tools: Git, GitHub, VS Code, Postman
+🎯 Goals:
+Continuously improve my skills to become an expert in full-stack development.
+Contribute to open-source projects and collaborate with the developer community.
+Explore advanced technologies like DevOps and Cloud Computing.
+🌍 What I Love:
+Developing user-friendly and scalable applications.
+Solving complex problems with creative solutions.
+Learning new technologies and sharing knowledge with others.
+📫 How to Reach Me:
+📧 enesakmehmet7@gmail.com
+💼 LinkedIn https://www.linkedin.com/in/enes-akmehmet-a061bb206/
+
 
 ---
 
