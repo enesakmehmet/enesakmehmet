@@ -22,6 +22,8 @@ Learning new technologies and sharing knowledge with others.
 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=enesakmehmet&color=brightgreen)
+![Steam](https://steam-stat.vercel.app/api?profile=76561198113360616)
+
 
 
 ---
