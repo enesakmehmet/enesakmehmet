@@ -20,7 +20,7 @@ Learning new technologies and sharing knowledge with others.
 📫 How to Reach Me:
 📧 enesakmehmet7@gmail.com
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical)
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=enesakmehmet&color=brightgreen)
 
 
