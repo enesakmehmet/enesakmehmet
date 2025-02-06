@@ -23,10 +23,12 @@ Learning new technologies and sharing knowledge with others.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=enesakmehmet&color=brightgreen)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=enesakmehmet.visitor-badge)
+[![wakatime](https://wakatime.com/badge/user/YOUR-ID.svg)](https://wakatime.com/@YOUR-ID)
+
 
 ![World Map](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=enesakmehmet.visitor-badge)
+
 
 
 
