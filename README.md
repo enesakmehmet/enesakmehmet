@@ -28,6 +28,7 @@ Learning new technologies and sharing knowledge with others.
 
 ![World Map](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
 
+![Coding](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
 
 
 
