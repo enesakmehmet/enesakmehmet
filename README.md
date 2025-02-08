@@ -31,6 +31,7 @@ Learning new technologies and sharing knowledge with others.
 ![Coding](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
 
 
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=enesakmehmet&theme=react-dark)
 
 
 ---
