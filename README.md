@@ -23,7 +23,6 @@ Learning new technologies and sharing knowledge with others.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=enesakmehmet&color=blue&style=flat-square)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=enesakmehmet.visitor-badge)
 
 
 
