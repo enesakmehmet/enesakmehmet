@@ -33,7 +33,7 @@ Learning new technologies and sharing knowledge with others.
 
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=enesakmehmet&theme=react-dark)
 
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enesakmehmet&theme=dark&hide_border=true)
 ---
 
 ## 🛠️ Languages and Tools
