@@ -59,7 +59,7 @@ Learning new technologies and sharing knowledge with others.
 ## 🔗 Connect with Me 🌐
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/enesakmehmet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/enes-akmehmet-a061bb206/)
 
 
 
