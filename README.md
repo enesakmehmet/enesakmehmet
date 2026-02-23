@@ -60,10 +60,7 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/enesakmehmet/enesakmehmet/output/github-contribution-grid-snake.svg" />
-</p>
-
+![Snake animation](https://raw.githubusercontent.com/enesakmehmet/enesakmehmet/output/github-contribution-grid-snake.svg)
 ---
 
 ## 🌍 Connect With Me
