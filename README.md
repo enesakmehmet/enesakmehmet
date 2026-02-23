@@ -1,79 +1,88 @@
-👋 About Me
-🌟 Hi, I'm Enes Akmehmet!
-🚀 A passionate Full Stack Developer with 1 year of hands-on experience in building dynamic and responsive web applications.
+<h1 align="center">Hi 👋, I'm Enes Akmehmet</h1>
+<h3 align="center">🚀 Full Stack Developer | React • Node.js • TypeScript</h3>
 
-💻 Tech Stack:
-Frontend: HTML, CSS, JavaScript, TypeScript, React
-Backend: Node.js, Express
-Database: SQL, MongoDB
-Tools: Git, GitHub, VS Code, Postman
-🎯 Goals:
-Continuously improve my skills to become an expert in full-stack development.
-Contribute to open-source projects and collaborate with the developer community.
-Explore advanced technologies like DevOps and Cloud Computing.
-🌍 What I Love:
-Developing user-friendly and scalable applications.
-Solving complex problems with creative solutions.
-Learning new technologies and sharing knowledge with others.
-
-
-📫 How to Reach Me:
-📧 enesakmehmet7@gmail.com
-
-
-![Visitor Count](https://komarev.com/ghpvc/?username=enesakmehmet&color=blue&style=flat-square)
-
-
-
-
-![World Map](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
-
-![Coding](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
-
-
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=enesakmehmet&theme=react-dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enesakmehmet&theme=dark&hide_border=true)
----
-
-## 🛠️ Languages and Tools
-
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)  
-![Passport.js](https://img.shields.io/badge/-Passport.js-34E27A?style=flat-square&logo=passport&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)  
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)  
-![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat-square&logo=zustand&logoColor=white)  
-
-
+<p align="center">
+  Passionate about building scalable, user-friendly and high-performance web applications.
+</p>
 
 ---
 
-## 🔗 Connect with Me 🌐
+## 👨‍💻 About Me
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/enes-akmehmet-a061bb206/)
-
-
+- 💼 2+ year hands-on experience in Full Stack Development  
+- 🔥 Focused on modern web technologies and clean architecture  
+- 📚 Constantly learning and improving  
+- 🌍 Open to collaboration & open-source contributions  
+- ☁️ Currently exploring DevOps & Cloud Technologies  
 
 ---
 
-## 📈 GitHub Stats
+## 🛠 Tech Stack
 
-![Enes's GitHub stats](https://github-readme-stats.vercel.app/api?username=enesakmehmet&show_icons=true&theme=radical)
+### 🚀 Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enesakmehmet&layout=compact&theme=radical)
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
+### 🗄 Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<!---
-enesakmehmet/enesakmehmet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=enesakmehmet&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesakmehmet&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 GitHub Activity Graph
+
+[![Enes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enesakmehmet&theme=tokyo-night)](https://github.com/enesakmehmet)
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/enesakmehmet/enesakmehmet/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/enes-akmehmet-a061bb206/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Enes%20Akmehmet-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:enesakmehmet7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=enesakmehmet&color=blue&style=for-the-badge"/>
+</p>
+
+---
+
+⭐ From [enesakmehmet](https://github.com/enesakmehmet)
