@@ -2,18 +2,26 @@
 <h3 align="center">🚀 Full Stack Developer | React • Node.js • TypeScript</h3>
 
 <p align="center">
-  Passionate about building scalable, user-friendly and high-performance web applications.
+  Passionate about building scalable, high-performance and user-friendly web applications.
+</p>
+
+---
+
+## 💻 Currently Working On
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Building+Scalable+Web+Applications;Clean+Code+%26+Modern+Architecture;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💼 2+ year hands-on experience in Full Stack Development  
-- 🔥 Focused on modern web technologies and clean architecture  
+- 💼 2+ years hands-on experience in Full Stack Development  
+- 🔥 Focused on modern web technologies & clean architecture  
 - 📚 Constantly learning and improving  
 - 🌍 Open to collaboration & open-source contributions  
-- ☁️ Currently exploring DevOps & Cloud Technologies  
+- ☁️ Exploring DevOps & Cloud Technologies  
 
 ---
 
@@ -54,13 +62,18 @@
 
 ## 🔥 GitHub Activity Graph
 
-[![Enes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enesakmehmet&theme=tokyo-night)](https://github.com/enesakmehmet)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enesakmehmet&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🚀 Developer Mode
 
-![Snake animation](https://raw.githubusercontent.com/enesakmehmet/enesakmehmet/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
+</p>
+
 ---
 
 ## 🌍 Connect With Me
@@ -77,7 +90,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=enesakmehmet&color=blue&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=enesakmehmet&color=58A6FF&style=for-the-badge"/>
 </p>
 
 ---
