@@ -53,10 +53,9 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enesakmehmet&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesakmehmet&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=enesakmehmet&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesakmehmet&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 </p>
-
 ---
 
 ## 🔥 GitHub Activity Graph
